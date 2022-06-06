@@ -45,7 +45,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="moeabu200"
 )
 
 mycursor = mydb.cursor()
@@ -73,7 +73,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="moeabu200"
 )
 
 mycursor = mydb.cursor()
